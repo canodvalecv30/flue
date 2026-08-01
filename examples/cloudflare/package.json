@@ -7,8 +7,8 @@
 		"@cloudflare/shell": "*",
 		"@flue/runtime": "workspace:*",
 		"agents": "^0.14.1",
-		"hono": "^4.7.0",
-		"valibot": "^1.0.0"
+		"hono": "^4.12.27",
+		"valibot": "^1.4.2"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20260602.1",
